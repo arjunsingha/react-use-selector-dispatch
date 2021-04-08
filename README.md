@@ -1,3 +1,5 @@
+# description
+This project demostrate the use of the hooks, useSelector and useDispatch. Also it uses multiple reducers.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
